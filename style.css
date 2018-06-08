@@ -1,0 +1,18 @@
+div {
+  overflow: auto;
+  width: 500px;
+  padding-left:30px;
+  padding-bottom:30px;
+  margin-left: 350px;
+  color: blue;
+  background-color: rgb(234,234,234);
+  position: absolute;
+}
+#title {
+  font-size: 35pt;
+  font-family:"cursive";
+}
+.text {
+  font-family: "cursive";
+  font-size: 18 pt;
+}
