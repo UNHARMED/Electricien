@@ -1,9 +1,7 @@
-
-
-p {
-	back-ground: black;
+.index {
+  background: black;
 	font-family: serif;
 	font-size: 15px;
 	text-align: justify;
-	color: white;
+  color: red;
 }
